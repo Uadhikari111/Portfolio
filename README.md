@@ -1,4 +1,3 @@
-This is my Portfolio. 
+# uadhikari.github.io
 Click here to open my Portfolio.
 https://uadhikari111.github.io/Portfolio/
-# uadhikari.github.io
